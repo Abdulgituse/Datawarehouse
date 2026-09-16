@@ -1,2 +1,2 @@
 # Datawarehouse
-It gives overall information abot DWH
+It gives overall information about DWH
